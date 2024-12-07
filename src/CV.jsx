@@ -2,7 +2,7 @@ import './CV.css';
 import githubImage from './assets/1298743_github_git_logo_social_icon.png';
 import phoneImage from './assets/5932589_call_doctor_hospital_icon.png';
 import gmailImage from './assets/7089163_gmail_google_icon.png';
-import abukiImage from './assets/abuki.jpg';
+import abukiImage from './assets/Abuki.jpg';
 function Cv () {
     return (
         <div className="cv-container">
@@ -11,7 +11,7 @@ function Cv () {
                 <img src={abukiImage} className='abuki'></img>
                 <div className='img'>
                     <img src={gmailImage}></img>
-                    <p><a href="">abubekertaha@example.com</a></p>
+                    <p><a href="">abubekertaha3@gmail.com</a></p>
                 </div>
                 <div className='img'>
                     <img src={phoneImage} alt="Phone Icon" />
